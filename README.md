@@ -23,4 +23,4 @@ Use this script to speed up folder creation times.
 ```
 The following command will result in the following:
 
-![Picture of root folder containing 8 folder, named Lab 1 - Lab 8](https://github.com/partrima/folder-gen/blob/master/folder-output-example.jpg?raw=true)
+![Picture of root folder containing 8 folder, named Lab 1 - Lab 8](https://github.com/partrima/folder-gen-script/blob/main/folder-output-example.jpg)
